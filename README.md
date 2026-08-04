@@ -62,7 +62,7 @@ The project contains retail sales data including:
 
 # 📊 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
