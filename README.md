@@ -5,6 +5,32 @@
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Measures-orange)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+<p align="center">
+<img src="Images/Dashboard.png" width="100%">
+</p>
+
+---
+
+## 📑 Table of Contents
+
+- Project Overview
+- Business Objectives
+- Tech Stack
+- Dataset
+- Business Impact
+- Project Highlights
+- KPIs
+- Dashboard Features
+- SQL Concepts
+- Power BI Concepts
+- Business Insights
+- Project Workflow
+- Skills Demonstrated
+- Future Enhancements
+- About the Author
 
 ---
 
@@ -60,10 +86,27 @@ The project contains retail sales data including:
 
 ---
 
-# 📊 Dashboard Preview
+## 📈 Business Impact
 
-![Dashboard](Images/Dashboard.png)
+The dashboard enables business users to:
 
+- Monitor sales performance in real time
+- Identify high-performing categories
+- Improve delivery efficiency
+- Understand customer purchasing behavior
+- Optimize product strategy
+- Support data-driven decision making
+
+---
+
+# 🚀 Project Highlights
+
+- Built an end-to-end retail analytics dashboard using **Excel, SQL, Power Query, and Power BI**.
+- Cleaned, transformed, and modeled retail sales data to create a structured Business Intelligence solution.
+- Developed **6 DAX KPI measures** to monitor Total Sales, Total Quantity, Total Orders, Total Customers, Average Order Value (AOV), and On-Time Delivery Rate.
+- Designed **5 interactive business visualizations** to analyze monthly sales trends, product categories, top-performing brands, payment methods, and delivery    performance.
+- Implemented **dynamic slicers and cross-filtering** for Year, Month, Category, Brand, and Payment Method to enable interactive data exploration.
+- Generated actionable business insights to support sales monitoring, customer behavior analysis, and strategic decision-making.
 ---
 
 # 📈 Key Performance Indicators
@@ -172,6 +215,25 @@ Blinkit-Retail-Analytics-Dashboard
 
 ---
 
+# 🚀 Getting Started
+
+## Prerequisites
+
+- Power BI Desktop
+- Microsoft Excel
+- SQL Server / MySQL (optional, for running SQL queries)
+
+## Installation & Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Bibhuti123456/Blinkit-Retail-Analytics-Dashboard.git
+2. Open the PowerBI/Blinkit_Dashboard.pbix file using Power BI Desktop.
+3. If required, update the data source paths and click Refresh.
+4. Use the interactive slicers to explore sales, customer, product, and delivery insights.
+
+---
+
 # 🔄 Project Workflow
 
 ```mermaid
@@ -209,20 +271,23 @@ F-->G[Interactive Power BI Dashboard]
 
 # 🚀 Future Enhancements
 
-- Sales Forecasting
-- Customer Segmentation
-- Profitability Analysis
-- Inventory Optimization
-- Predictive Analytics using Python
-- Automated Data Refresh
+• Sales Forecasting using Prophet
+• Customer Lifetime Value Prediction
+• RFM Analysis
+• Inventory Demand Forecasting
+• AI-based Product Recommendation
 
 ---
 
-# 👨‍💻 Author
+## Key Learnings
 
-**Bibhuti Bhusana Patnaik**
+• Building a star schema
+• Writing optimized SQL queries
+• Creating reusable DAX measures
+• Designing executive dashboards
+• Translating business questions into KPIs
 
-Aspiring Data Analyst | Business Intelligence Enthusiast
+---
 
 ### Technical Skills
 
@@ -232,6 +297,20 @@ Aspiring Data Analyst | Business Intelligence Enthusiast
 - DAX
 - Power Query
 - Python (Basic)
+
+---
+
+## 👨‍💻 About the Author
+
+**Bibhuti Bhusana Patnaik**
+
+Data Analyst | Power BI | SQL | Excel | Python | Business Intelligence
+
+Passionate about transforming raw data into actionable business insights through analytics, dashboard development, and visualization.
+
+📧 Email:
+🔗 LinkedIn:
+💻 GitHub:
 
 ---
 
