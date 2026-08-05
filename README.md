@@ -9,7 +9,6 @@
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Measures-orange)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 
