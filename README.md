@@ -1,5 +1,9 @@
 # 🛒 Blinkit Retail Analytics Dashboard
 
+<p align="center">
+<img src="Images/Dashboard.png" width="100%">
+</p>
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoft-excel&logoColor=white)
@@ -8,9 +12,6 @@
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-<p align="center">
-<img src="Images/Dashboard.png" width="100%">
-</p>
 
 ---
 
