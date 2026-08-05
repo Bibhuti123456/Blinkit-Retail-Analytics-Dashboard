@@ -308,9 +308,11 @@ Data Analyst | Power BI | SQL | Excel | Python | Business Intelligence
 
 Passionate about transforming raw data into actionable business insights through analytics, dashboard development, and visualization.
 
-📧 Email:
-🔗 LinkedIn:
-💻 GitHub:
+📧 Email: [bibhutipatnaik](bibhutipatnaik123@gmail.com)
+
+🔗 GitHub: [Bibhuti123456](https://github.com/Bibhuti123456)
+
+💼 LinkedIn: [Bibhuti Bhusana Patnaik](https://www.linkedin.com/in/bibhuti-bhusana-patnaik/)
 
 ---
 
